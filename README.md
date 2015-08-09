@@ -17,5 +17,8 @@ time and headache in the end.
 __This is a Derived Work from Copyright (c) Eduardo Oliveira 2006 under
 "The Code Project Open License (CPOL)."__
 
+The original work can be found at the following URL:
+http://www.codeproject.com/Articles/16453/Application-Auto-Update-Revisited
+
 A copy of the COPL license is in the root of this repo
 is the `COPL.htm` file. The source code is in the `src` folder.
